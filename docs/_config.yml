@@ -1,5 +1,6 @@
 title: GUI Definition Language
 description: GitHub landing page of the GUI Definition Language
+include: [\css]
 defaults:
   -
     scope:
