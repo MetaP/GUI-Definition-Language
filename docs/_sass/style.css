@@ -1,0 +1,37 @@
+/*  */
+
+body {
+    font-family: Segoe UI, sans-serif;
+}
+
+h1, h2, h3, H4, h5 {
+    color: royalblue;
+}
+
+span.concept-definition {
+    font-weight: 700;
+    color: lightseagreen;
+}
+
+span.concept-reference {
+    font-weight: 300;
+    color: lightseagreen;
+}
+
+.page-header {
+    background-color: lightcyan;
+}
+
+.project-name {
+    font-weight: 700;
+    color: lightseagreen;
+}
+
+.page-footer {
+    background-color: lightcyan;
+}
+
+.page-footer-owner {
+    display: block;
+    font-weight: bold;
+}
